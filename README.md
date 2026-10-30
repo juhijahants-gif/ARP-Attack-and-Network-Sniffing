@@ -1,4 +1,4 @@
-<img width="833" height="548" alt="image" src="https://github.com/user-attachments/assets/e7bef058-47e3-40d7-b753-608b3671ed02" /><img width="771" height="136" alt="Screenshot 2026-10-30 115829" src="https://github.com/user-attachments/assets/e806ecb2-4827-4adf-ac48-d380378fe03f" /># ARP-Attack-and-Network-Sniffing
+# ARP-Attack-and-Network-Sniffing
 
 # Explore Network Sniffing and ARP Attacks
 
