@@ -119,7 +119,8 @@ Open Metasploit using:
 msfconsole
 ```
 ### OUTPUT:
-<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/6b4f13b0-75e6-48da-bf08-e085c7308e6d" />
+<img width="1024" height="941" alt="image" src="https://github.com/user-attachments/assets/963a54dd-a269-4750-983d-9657f1b613b4" />
+
 
 
 Search for FTP-related auxiliary modules using:
