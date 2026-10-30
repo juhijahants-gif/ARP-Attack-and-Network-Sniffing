@@ -118,18 +118,18 @@ Open Metasploit using:
 ```bash
 msfconsole
 ```
+### OUTPUT:
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/6b4f13b0-75e6-48da-bf08-e085c7308e6d" />
+
 
 Search for FTP-related auxiliary modules using:
 
 ```text
 search type:auxiliary ftp
 ```
-
-Examine FTP service identification modules.
-
 ### OUTPUT:
-
-[Paste Screenshot – Metasploit FTP modules]
+<img width="955" height="910" alt="image" src="https://github.com/user-attachments/assets/bea573d1-9670-4463-8a9f-edf14fe163b3" />
+Examine FTP service identification modules.
 
 ### Wireshark:
 
@@ -148,6 +148,12 @@ Examine the various menus, controls, packet details and protocol information ava
 ### OUTPUT:
 
 <img width="1110" height="692" alt="Screenshot 2026-10-30 120638" src="https://github.com/user-attachments/assets/cc237a5a-8b0a-4460-9073-86c804199dc2" />
+
+### ARP packet:
+<img width="902" height="906" alt="image" src="https://github.com/user-attachments/assets/69e4a829-a065-4af4-8db6-cfe4d42b7792" />
+
+
+
 
 
 ### Ettercap:
